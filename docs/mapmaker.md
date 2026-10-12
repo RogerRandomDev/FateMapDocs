@@ -1,6 +1,8 @@
 # MapMaker
 
 ## Setup
+[MapMaker Repository](https://github.com/RogerRandomDev/fatemap)
+
 After installing Enter project settings and go to/add a setting Called ```fatemap/project_directory```.
 Set it's file path to the root folder of the project you are creating maps for.
 ![Project settings image](images/mapmaker_projectsetting_targetproject.png)

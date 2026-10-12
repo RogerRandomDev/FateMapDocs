@@ -2,6 +2,8 @@
 
 The maploader for FateMaps is a set of resources you drag and drop into your project to allow the mapmaker to create maps for it.
 
+[MapLoader Repository](https://github.com/RogerRandomDev/FatemapLoader)
+
 ## Setup
 
 Once you install and add them to your project they should appear as follows.
