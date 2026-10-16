@@ -3,10 +3,10 @@
 ## Setup
 [MapMaker Repository](https://github.com/RogerRandomDev/fatemap)
 
-After installing Enter project settings and go to/add a setting Called ```fatemap/project_directory```.
-Set it's file path to the root folder of the project you are creating maps for.
-![Project settings image](images/mapmaker_projectsetting_targetproject.png)
-Make sure your target project has been set up as well. [setting up a project](maploader.md#setup)
+After installing and launching, you'll see a top bar. Select the folder of another Godot project with the [maploader](../Loader/maploader.md) added to it.
+If it has any maps in ```FateMap/maps/Editing``` they will show up. If not you will only see `New Map`.
+![Project Select Screen](../images/FateMapMapSelect.png)
+Make sure your target project has been set up as well. [setting up a project](../Loader/maploader.md#setup)
 
 ### Map files
 
