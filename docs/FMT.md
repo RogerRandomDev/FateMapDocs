@@ -24,3 +24,10 @@ tags = []
 ```tags``` are a tag used by the editor for setting if a material is skipped when compiling for rendering and/or collision.
 
 all paths inside an FMT are read as relative to the ```Imported``` folder.
+
+## Setting up for usage
+An FMT file works in the mapmaker(NOT THE MAPLOADER) regardless of if the Hashmap file is updated or not. to update the hashmap under Project>Tools you'll see `update FMT hashmap`. It will get all fmt files and map their hash to their locations.
+
+![Hashmap updater](./images/FMTHashUpdate.png)
+
+This step is necessary anytime you add a new FMT file to allow the maploader to access them.
